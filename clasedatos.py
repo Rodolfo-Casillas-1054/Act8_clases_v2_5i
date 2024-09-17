@@ -21,8 +21,8 @@ class informacion:
             "Verde": "Verde",
             "Cafe": "Cafe"
         }
-        for z in diccionariocolor:
-            print(z)
+        for x,y in diccionariocolor.items():
+            print(x, y)
 # Creando el objeto
 
 Datos = informacion()
