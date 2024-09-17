@@ -5,7 +5,7 @@ Clases
 
 -Codigo
 
-![image](https://github.com/user-attachments/assets/785eed4c-8fca-4f8b-a5d8-0c82a45e7746)
+![image](https://github.com/user-attachments/assets/6e5aa0e5-ead5-436b-9209-842718c8cf6b)
 
 -Resultado
 
